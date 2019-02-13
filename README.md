@@ -1,2 +1,0 @@
-# appvenger
-React Native App

@@ -1,0 +1,4 @@
+#Wed Feb 13 13:47:48 COT 2019
+base.0=C\:\\Users\\lacisner\\Documents\\react-native\\appvenger\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
